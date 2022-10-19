@@ -1,2 +1,2 @@
-@0xCurtis
+@0xcurtis
 @takumiata
